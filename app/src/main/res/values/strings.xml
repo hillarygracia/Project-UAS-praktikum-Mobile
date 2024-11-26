@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMemoNotes</string>
+
+    <string name="list">LIST</string>
+    <string name="grid">GRID</string>
+
+</resources>
