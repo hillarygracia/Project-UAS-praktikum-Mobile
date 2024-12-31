@@ -1,2 +1,2 @@
-# Project-UTS-praktikum-Mobile
+# Project-UAS-praktikum-Mobile
 Membuat aplikasi MyMemoNotes
